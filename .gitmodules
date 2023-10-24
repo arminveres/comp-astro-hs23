@@ -4,3 +4,6 @@
 [submodule "libs/matplotlib-cpp"]
 	path = libs/matplotlib-cpp
 	url = https://github.com/lava/matplotlib-cpp.git
+[submodule "libs/plotcpp"]
+	path = libs/plotcpp
+	url = https://github.com/jlancha/plotcpp
